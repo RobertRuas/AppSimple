@@ -1,0 +1,9 @@
+- [Stack do projeto](project-stack.md) — Vue 3 + TS + PrimeVue + PWA/Capacitor, sem libs UI extras
+- [Design system](project-design-system.md) — Tokens CSS centralizados, paleta neutra, anti-padrões visuais
+- [Layout global](project-layout-structure.md) — Duas barras fixas (header + toolbar), componentes partilhados
+- [Formulários](project-forms.md) — Posicionamento, campos PrimeVue, auto-focus, ações na toolbar
+- [Safari/Mobile](project-safari-mobile.md) — Viewport, zoom 16px, safe areas, teclado, 100dvh
+- [Estrutura de diretórios](project-directory-structure.md) — Organização src/ por páginas, componentes, composables
+- [Navegação](project-navigation.md) — Hash History, botão voltar, gestos diferidos para fase posterior
+- [Fases do projeto](project-phases.md) — Fase 1: base visual e arquitetura, sem funcionalidades de negócio
+- [Idioma do utilizador](user-language.md) — Comunica em português, responder em português
